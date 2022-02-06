@@ -1,5 +1,5 @@
 
-== Agora Appbuilder ==
+== VIDEO CHAT APP==
 
 
 Instructions to run the project:
